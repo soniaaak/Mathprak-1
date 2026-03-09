@@ -36,18 +36,18 @@
 ## Картинки построенных объектов:
 
 <p align="center">
-  <img src="images/tokamak-1.png" width="45%">
-  <img src="images/tokamak-2.png" width="45%">
+  <img src="images/tokomak-1.png" width="45%">
+  <img src="images/tokomak-2.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="images/tokamak-3.png" width="45%">
-  <img src="images/tokamak-4.png" width="45%">
+  <img src="images/tokomak-3.png" width="45%">
+  <img src="images/tokomak-4.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="images/tokamak-5.png" width="45%">
-  <img src="images/tokamak-6.png" width="45%">
+  <img src="images/tokomak-5.png" width="45%">
+  <img src="images/tokomak-6.png" width="45%">
 </p>
 
 ---
