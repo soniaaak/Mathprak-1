@@ -79,11 +79,11 @@ gear.pvd
 
 Основной файл программы:
 
-💻 [code/result2.cpp](./code/result2.cpp)
+💻 [Основной код](./code/result2.cpp)
 
 Файл сборки проекта:
 
-⚙️ [CMakeLists.txt](./CMakeLists.txt)
+⚙️ [Файл сборки](./code/CMakeLists.txt)
 
 ---
 
