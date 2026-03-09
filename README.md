@@ -27,11 +27,11 @@
 
 Код с использованием встроенного метода:
 
-👾 сode/result_simple.cpp
+👾 [result_simple.cpp](code/result_simple.cpp)
 
 Код с ручным построением геометрии:
 
-👾 сode/result.cpp
+👾 [result.cpp](code/result.cpp)
 
 ## Картинки построенных объектов:
 
@@ -64,7 +64,7 @@
 
 Код для загрузки STL и генерации сетки:
 
-👾  code/gear_mesh.cpp
+👾  [gear_mesh.cpp](code/gear_mesh.cpp)
 
 ## Картинки построенных объектов:
 
