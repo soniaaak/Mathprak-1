@@ -97,7 +97,6 @@ gear.pvd
 
 <p align="center">
 <img src="./images/Kitty.jpg" width="260">
-<img src="./images/-3.jpg" width="260">
 </p>
 
 <p align="center"><i>Любая визуализация работает лучше, если рядом есть котик.</i> 🐱</p>
